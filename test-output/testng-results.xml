@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-11T20:33:00 IST" name="Default suite" finished-at="2023-06-11T20:33:20 IST" duration-ms="19936">
+    <groups>
+    </groups>
+    <test started-at="2023-06-11T20:33:00 IST" name="Default test" finished-at="2023-06-11T20:33:20 IST" duration-ms="19936">
+      <class name="api_demos_debug.MiscellaneousActivity.AppActivityTest">
+        <test-method is-config="true" signature="appiumConfiguration()[pri:0, instance:api_demos_debug.MiscellaneousActivity.AppActivityTest@21282ed8]" started-at="2023-06-11T20:33:00 IST" name="appiumConfiguration" finished-at="2023-06-11T20:33:09 IST" duration-ms="9174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumConfiguration -->
+        <test-method signature="appActivityTest()[pri:0, instance:api_demos_debug.MiscellaneousActivity.AppActivityTest@21282ed8]" started-at="2023-06-11T20:33:09 IST" name="appActivityTest" finished-at="2023-06-11T20:33:20 IST" duration-ms="10421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appActivityTest -->
+        <test-method is-config="true" signature="closeConnections()[pri:0, instance:api_demos_debug.MiscellaneousActivity.AppActivityTest@21282ed8]" started-at="2023-06-11T20:33:20 IST" name="closeConnections" finished-at="2023-06-11T20:33:20 IST" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeConnections -->
+      </class> <!-- api_demos_debug.MiscellaneousActivity.AppActivityTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
